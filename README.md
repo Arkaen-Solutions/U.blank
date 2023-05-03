@@ -1,7 +1,5 @@
 # U.blank Unity Template
 
-![Unity Logo](Assets/Arkaen/resourcez/img/unity_logo.png)
-
 Welcome to the Arkaen **U.blank** Unity template! This minimal template provides you with the bare bones to create a new Unity project, stripped of any unnecessary packages, dependencies, and configurations. You're literally starting with a blank canvas!
 
 ## Getting Started
